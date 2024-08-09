@@ -1,20 +1,24 @@
-Собираюсь поставить на роутер ...
+Собираюсь поставить на роутер  . . .   
 
 FT-AIR-DUO-G MT7621 CPU, MT7615DN 2T2R DBDC, 1000FDX
 
-[Wive-NG-HQ:/home]$ uname -m  =  mips  
-  uname -a  =  Linux Wive-NG-HQ 3.4.114.313 #1 SMP 21042023 mips GNU/Linux
+[Wive-NG-HQ:/home]$ 
+````uname -m```` =  mips  
+ ````uname -a````  =   ````Linux Wive-NG-HQ 3.4.114.313 #1 SMP 21042023 mips GNU/Linux```` 
 
 https://github.com/xvzc/SpoofDPI#installation
-linux-mips
+  
+````sh 
 curl -fsSL https://raw.githubusercontent.com/xvzc/SpoofDPI/main/install.sh | bash -s linux-mips
-
+````
 https://github.com/xvzc/SpoofDPI/issues/88
-... скрипты для установки и запуска, как это работает https://github.com/gray1717/spoofDPI_to_router , на openwrt просто бинарник надо в другую папку положить для своего железа
+( скрипты для установки и запуска, как это работает: https://github.com/gray1717/spoofDPI_to_router , на openwrt просто бинарник надо в другую папку положить для своего железа )
 
 и сразу ошибка на первом же шаге ))
+````sh 
 [Wive-NG-HQ:/home]$ curl -fsSL https://raw.githubusercontent.com/xvzc/SpoofDPI/main/install.sh |
 bash -s linux-mips
+````
 ![image](https://github.com/user-attachments/assets/6162abca-3067-406f-bff8-8e560502f58d)
 
 
