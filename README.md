@@ -1,3 +1,9 @@
+Собираюсь поставить на роутер ...
+
+FT-AIR-DUO-G MT7621 CPU, MT7615DN 2T2R DBDC, 1000FDX
+
+========================
+
 # spoofDPI to router
 Скрипт установки [spoofDPI](https://github.com/xvzc/SpoofDPI) на роутер, с установленным репозитарием [Entware](https://github.com/Entware/Entware), для обхода блокировки youtube в России
 
