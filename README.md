@@ -2,8 +2,8 @@
 
 FT-AIR-DUO-G MT7621 CPU, MT7615DN 2T2R DBDC, 1000FDX
 
-[Wive-NG-HQ:/home]$ uname -m  =  mips
-uname -a  =  Linux Wive-NG-HQ 3.4.114.313 #1 SMP 21042023 mips GNU/Linux
+[Wive-NG-HQ:/home]$ uname -m  =  mips  
+  uname -a  =  Linux Wive-NG-HQ 3.4.114.313 #1 SMP 21042023 mips GNU/Linux
 
 https://github.com/xvzc/SpoofDPI#installation
 linux-mips
