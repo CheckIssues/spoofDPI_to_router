@@ -1,4 +1,4 @@
-Собираюсь поставить на роутер  . . .   
+Собираюсь поставить на роутер в Entware . . .  на [ Wive-NG-HQ от sfstudio ](https://wi-cat.ru/wive-ng/chto-mozhet-usb/)
 
 FT-AIR-DUO-G MT7621 CPU, MT7615DN 2T2R DBDC, 1000FDX
 
